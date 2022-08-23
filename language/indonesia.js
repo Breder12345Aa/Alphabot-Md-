@@ -86,14 +86,13 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname, botname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp. 
-Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi🙏      
+saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.     
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Bot-Md :*
+*📚 List-Menu 𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇 :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -848,13 +847,13 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt
-Recode : my privat
+Recode : by 𝑇𝑧𝑝𝑒𝑟
 `
 }
 exports.tos = (ownernomer) => {
     return `
 *-------「 DONATE 」 -------*
-
+No dana : 083183321692
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
   Silahkan hubungi owner langsung wa.me/6283183321692
