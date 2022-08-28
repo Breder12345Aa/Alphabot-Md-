@@ -20,8 +20,8 @@ global.available = false //status online (online)
 // Other
 global.botname = "ʙʟᴀᴄᴋ ʙᴏᴛ ᴏғᴄ" //namabot kalian
 global.ownername= "𝑇𝑧𝑝𝑒𝑟" //nama kalian
-global.myweb ="https://wa.me/6283183321692" //bebas asal jan hapus
-global.youtube = "ZeeoneOfc" //bebas asal jan hapus
+global.myweb ="https://wa.me/15012058590" //bebas asal jan hapus
+global.youtube = "minta ke sc" //bebas asal jan hapus
 global.github = "zeeone-ofc" //bebas
 global.email = "tzper@gmail.com" //bebas
 global.region = "Indonesia" //bebas
